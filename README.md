@@ -112,6 +112,7 @@ This repository does not constitute:
 All descriptions are conceptual and subject to evolution.
 
 ---
+📄 Position Paper: /docs/position-paper.md
 
 ## License
 
