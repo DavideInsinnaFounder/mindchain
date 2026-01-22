@@ -23,6 +23,17 @@ A minimal, non-production reference skeleton demonstrating how the Mindchain con
 
 → See: `/reference`
 
+## Documentation
+- Position Paper: `/docs/position-paper.md`
+- Architecture: `/docs/architecture.md`
+- Payments Flow: `/docs/payments-flow.md`
+- Glossary: `/docs/glossary.md`
+- Threat Model: `/docs/threat-model.md`
+
+Security and contribution guidelines:
+- `SECURITY.md`
+- `CONTRIBUTING.md`
+
 ## What Mindchain Is
 
 - A **payment rail**, not a marketplace  
