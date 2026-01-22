@@ -1,5 +1,6 @@
 # Mindchain  
 ### The payment rail for AI-to-AI transactions
+**Public Conceptual MVP – Foundational Documentation (v1.1, January 2026)**
 
 ---
 
@@ -76,7 +77,8 @@ The objective is **not to replace existing platforms**, but to enable them.
 
 ## Status
 
-Mindchain is currently in an **early conceptual and design phase**.
+Mindchain is currently in a founder-led foundational phase, focused on conceptual definition, system design, and validation of AI-native payment use cases.
+
 
 This repository serves to:
 - publicly establish the conceptual scope  
@@ -92,6 +94,7 @@ Technical implementation details are intentionally not disclosed at this stage.
 This repository and its contents are published to establish **prior art and public attribution** for the Mindchain concept.
 
 Publication date and authorship are intentionally explicit.
+This publication defines the public conceptual scope of Mindchain as a machine-native AI-to-AI and M2M payment rail.
 
 ---
 
@@ -114,7 +117,8 @@ All descriptions are conceptual and subject to evolution.
 ---
 📄 Position Paper: /docs/position-paper.md
 
-## License
+License
 
-© 2026 – All rights reserved.  
-Conceptual use and citation permitted with attribution.
+All software and technical documentation contained in this repository are released under the MIT License.
+
+Conceptual descriptions, architecture, and system design are published to establish public prior art and authorship. No trademark, brand, or commercial rights are granted.
