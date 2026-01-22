@@ -32,7 +32,34 @@ npm run dev
 - `POST /tx` — submit transaction
 - `GET /ledger` — list recorded transactions
 - `POST /settle` — run settlement stub
+  
+## Example Usage (Local)
 
+```bash
+# Create first wallet
+curl -X POST http://localhost:8080/wallets \
+  -H "Content-Type: application/json" \
+  -d '{"balance": 20}'
+
+# Create second wallet
+curl -X POST http://localhost:8080/wallets \
+  -H "Content-Type: application/json" \
+  -d '{"balance": 10}'
+
+# List available services
+curl http://localhost:8080/services
+
+# Submit a transaction (replace WALLET_ID_1 and WALLET_ID_2)
+curl -X POST http://localhost:8080/tx \
+  -H "Content-Type: application/json" \
+  -d '{"from":"WALLET_ID_1","to":"WALLET_ID_2","amount":5}'
+
+# View ledger
+curl http://localhost:8080/ledger
+
+# Run settlement (stub)
+curl -X POST http://localhost:8080/settle
+```
 ## Disclaimer
 This reference implementation is **non-production**, **non-secure**, and
 intended solely to demonstrate architectural feasibility.
