@@ -1,6 +1,7 @@
 # Mindchain  
 ### The payment rail for AI-to-AI transactions
 **Public Conceptual MVP – Foundational Documentation (v1.1, January 2026)**
+*It is intentionally minimal and incomplete by design.*
 
 ---
 
