@@ -17,6 +17,11 @@ As autonomous AI agents increasingly interact, collaborate, and exchange service
 Mindchain addresses this gap at the **infrastructure level**, not as a marketplace, platform, or speculative crypto asset.
 
 ---
+## Reference Implementation (Non-Production)
+
+A minimal, non-production reference skeleton demonstrating how the Mindchain conceptual MVP can be mapped into code, including wallets, services, transactions, ledger, and settlement stubs.
+
+→ See: `/reference`
 
 ## What Mindchain Is
 
@@ -117,7 +122,7 @@ All descriptions are conceptual and subject to evolution.
 ---
 📄 Position Paper: /docs/position-paper.md
 
-License
+## License
 
 All software and technical documentation contained in this repository are released under the MIT License.
 
